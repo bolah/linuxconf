@@ -1,0 +1,500 @@
+/Users/bolah/Pictures/cam/test; exit;
+brew install transmission
+exit
+ls
+cd work/
+ls
+cd source/
+ls
+cd certification/
+ls
+cd ..
+cd clouddrive_sync/
+ls
+vi countfiles.sh 
+vi countfiles.sh 
+vi countfiles.sh 
+vi countfiles.sh 
+vi /tmp/vitest.txt
+ls -l . | wc -l
+echo ${pwd} | ls -l . | wc -l
+echo ${pwd} |
+echo ${pwd} 
+pwd
+echo '${pwd}'
+echo ${pwd}
+echo $(pwd)
+echo $(pwd) | ls -l . | wc -l
+echo $(pwd) + ls -l . | wc -l
+echo $(pwd)  $(ls -l . | wc -l)
+cd work/source/clouddrive_sync/
+ls
+./countfiles.sh 
+./countfiles.sh .
+./countfiles.sh .
+echo $(pwd pwd)
+echo $(pwd) $(pwd)
+echo $(pwd) $(pwd)
+./countfiles.sh .
+./countfiles.sh .
+./countfiles.sh .
+./countfiles.sh .
+./countfiles.sh .
+ls -l ./tests/resources/test01/target
+./countfiles.sh .
+ls -l ./tests/resources/test01/target
+ls -l ./tests/resources/test01/
+ls -l ./tests/resources/test01/target/
+ls -l ./tests/resources/test01/target/
+ls -l ./tests/resources/test01/target/
+./countfiles.sh .
+./countfiles.sh .
+./countfiles.sh .
+./countfiles.sh .
+./countfiles.sh .
+cd Desktop
+ls
+./transgui.pkg/
+cd transgui.pkg/
+ls
+cd ..
+brew install transgui.pkg/
+sudo installer -pkg transgui.pkg/ -target /
+ls
+ls -lh
+rm drivesink.py 
+cd work/
+ls
+cd source/
+ls
+cd clouddrive_sync/
+ls
+vi /tmp/learnvi.txt
+ls
+cd ..
+ls
+cd ..
+ls
+vi consoleText.txt 
+vi consoleText.txt 
+vimtutor
+vi ~/.vimrc
+vi ~/.vimrc
+cd ~
+source .vimrc 
+vi .vimrc 
+vimtutor
+l
+sl
+ls
+cd work/
+cd source/
+ls
+ls
+cd ..
+vi consoleText.txt 
+vi consoleText.txt 
+vi ~/.vimrc 
+cd
+l
+ls
+vi .vimrc 
+rm .vimrc 
+vm .vimrc
+vi .vimrc
+vi .vimrc 
+ls
+cd work/
+cd source/
+ls
+cd certification/
+git pull origin
+git branch
+gib branch nightly-branch
+git checkout nightly-branch
+git status
+git add -i 
+git status
+git commit "e"
+git commit -m "e"
+git checkout nightly-branch
+git pull origin
+egrep -r . "rg.apache.accumulo.proxy.TTupleProxyIT-testCo"
+egrep -r "rg.apache.accumulo.proxy.TTupleProxyIT-testCo" .
+egrep -r "*rg.apache.accumulo.proxy.TTupleProxyIT-testCo*" .
+egrep -r "*rg.apache.accumulo.proxy.TTupleProxyIT-testCo" .
+egrep -r ".*rg.apache.accumulo.proxy.TTupleProxyIT-testCo.*" .
+ls
+cd test/
+ls
+cd ..
+pwd
+ls
+cd HDPTests/
+ls
+cd tests/
+l
+ls
+cd accumulo/
+egrep -r ".*rg.apache.accumulo.proxy.TTupleProxyIT-testCo.*" .
+ls /tmp
+mkdir /tmp/a
+ls /tmp/a
+l
+ls
+pwd
+cd ..
+cd ..
+pwd
+cd ..
+cd HDPTests/
+cd beaver/
+ls
+grep -r . ".*logger.*handler"
+grep -r ".*logger.*handler" .
+grep -ri ".*logger.*handler" .
+grep -ri ".*logger" .
+grep -ri ".*logger" .
+ls
+cd work/
+ls
+cd source/
+cd certification/
+grep -ri ".*logger" . | grep error
+grep -ri ".*logger.*" . | grep error
+sshw root@172.22.70.3
+cat /Users/bolah/work/source/build-utils/openstack-utils/accounts/hw-qe-keypair.pem
+ls
+chmod 600 /Users/bolah/work/source/build-utils/openstack-utils/accounts/hw-qe-keypair.pem
+sshw root@172.22.70.3
+type sshw
+vi ~/.bash_r
+vi ~/.bash_profile
+source ~/.bash_profile
+sshw root@172.22.70.3
+ls
+ls
+pwd
+git status
+git commit -m "minor test improvement"
+git add -i
+git add -i
+git status
+git status
+git status
+git add HDPTests/beaver/util.py
+git commit -m "minor test improvement"
+git branch
+git checkout test_code_improvement
+brew install gitx
+brew install Caskroom/cask/gitx
+git history
+ls
+git hist
+git hist
+ls
+git status
+git branch
+git git rever HDPTests/tests/slider-accumulo/__init__.py
+git git revert HDPTests/tests/slider-accumulo/__init__.py
+git checkout HDPTests/tests/slider-accumulo/__init__.py
+git status
+git checkout HDPTests/tests/slider-accumulo/__init__.py
+git checkout HDPTests/tests/slider-accumulo/__init__.py 
+git reset HDPTests/tests/slider-accumulo/__init__.py 
+git reset HDPTests/beaver/util.py
+git status
+git git clean -f -d
+git clean -f -d
+git status
+git commit -am "code improvement"
+git status
+git hist |less
+git rebase --interactive HEAD~3
+git hist |less
+git rebase --interactive HEAD~3
+git hist | less
+vi a.txt
+rm -f a.txt 
+git rebase --interactive HEAD~3
+git config --global core.editor vim
+git rebase --interactive HEAD~3
+git log | less
+git log
+git log --oneline
+git log
+git status
+git push
+git branch
+
+git status
+git commit -am "fixed compile error"
+git push origin
+git branch
+git rmotes
+git remote - v
+git remote -v
+git push origin
+git push origin
+git branch
+git push origin test_code_improvement
+git push 
+git push origin test_code_improvement
+git pull test_code_improvement
+ls
+ls
+ls -lh
+cd ..
+ls -lh
+cd certification/
+ls
+cd ..
+ls -lh
+sshw root@172.22.72.56
+sshw root@172.22.72.56
+pip install awscli
+sudo pip install awscli
+chmod 777 -R /tmp/pip-SiTcYN-uninstall/
+chmod 777 -r /tmp/pip-SiTcYN-uninstall/
+chmod 777  /tmp/pip-SiTcYN-uninstall/
+sudo chmod 777  /tmp/pip-SiTcYN-uninstall/
+sudo chmod 777 -r /tmp/pip-SiTcYN-uninstall/
+sudo pip install awscli
+sudo pip3 install awscli
+aws s3
+aws s3 --help
+aws s3 -help
+aws s3 ls
+aws s3 ls s3://dev.hortonworks.com
+aws configure
+export AWS_ACCESS_KEY_ID='qweqweqwe'
+export AWS_SECRET_ACCESS_KEY='qweqqweqwe'
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-169/repodata/
+aws configure
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-169/repodata/
+
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-169/repodata/
+aws configure
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-169/repodata/
+unset AWS_ACCESS_KEY_ID
+unset AWS_SECRET_ACCESS_KEY
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-169/repodata/
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-169/repodata/
+aws s3 ls s3://s3.amazonaws.com/dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata/repomd.xml
+aws s3 ls s3://s3.amazonaws.com/dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata
+aws s3 ls s3//amazonaws.com/dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata/repomd.xml
+aws s3 ls s3://amazonaws.com/dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata/repomd.xml
+aws s3 ls s3://amazonaws.com/dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata/repomd.xml
+aws s3 ls s3://amazonaws.com/dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170/repodata
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS/2.4.0.0-170
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/2.x/BUILDS
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp3/
+aws s3 ls s3://dev.hortonworks.com/HDP/suse11sp4
+ls
+cd work/
+ls
+cd source/
+ls
+cd ..
+ls -lh
+do shell script "java -jar /asdfa/jobviewer.jar &> /dev/null &"
+do shell script "java -jar /asdfa/jobviewer.jar &> /dev/null &"
+pwd
+do shell script "java -jar /Users/bolah/work/jobviewer.jar &> /dev/null &"
+ls
+jenkinsmagic.app/
+./jenkinsmagic.app/
+ls
+cd source/
+ls
+cd certification/
+grep -r  ."test_slider_accumulo_install_client"
+grep -r  . "test_slider_accumulo_install_client"
+grep -r  "test_slider_accumulo_install_client" .
+ls
+ls -lh
+pwd
+grep -r "======== LOG COLLECTION END =========" .
+sshw root@172.22.72.56
+sshw root@172.22.72.56
+ls
+cd work/
+vi broken_test.log
+htop
+brew install htop
+sudo htop
+pwd
+ls -lh
+cd source/
+ls
+cd certification/
+egrep -r . "runid"
+egrep -r "runid" .
+egrep -r "run_id" .
+sshw root@172.22.101.72
+top
+vimtutor 
+sshw root@172.22.101.72
+vimtutor 
+man vimtutor
+ls
+vimtutor 
+cd work/source/certification/
+ls
+git diff commit
+git diff commitˆ commit
+git hist
+git hist e9eb651
+git show e9eb651
+git hist 
+git branch
+git checkout nightly-branch
+git status
+git pul
+git pull
+git branch
+git branch -d test_code_improvement
+git branch -d test_code_improvement y
+git branch -D test_code_improvement 
+git branch 
+git hist
+000:Q
+git hist
+ls
+cd work/
+lws
+ls
+cd source/
+ls
+cd cer
+cd certification/
+ls
+pwd
+git branch
+git hist
+git upstream pull
+git pull upstrem
+git pull upstream
+git branch
+git ls
+git log
+git log --graph --oneline --decorate --all
+gitk
+brew install gitk
+git config color.ui true
+git rebase -i origin/master~4 master
+git branch
+git rebase -i origin/test_code_improvement~4 master
+git rebase -i origin/origin test_code_improvement
+git rebase -i origin/test_code_improvement test_code_improvement
+git rebase -i origin/test_code_improvement~4 test_code_improvement
+git rebase --abort
+git rebase -i origin/test_code_improvement~4 test_code_improvement
+/Users/bolah/work/source/certification/HDPTests/README; exit;
+ls
+cd work/
+ls
+cs source/
+ls
+cd source/
+cd certification/
+ls
+grep -r . "untangle"
+egrep -r . "untangle"
+egrep -r 'untangle' .
+egrep -r '.*import .* xml' .
+egrep -r '.*import .* xml.*' .
+egrep -r 'etree' .
+python
+python --version
+python
+ls
+cd ..
+ls
+cd ..
+ls
+cd source/
+vim test.py
+py.test -s test.py 
+vim test.py
+py.test -s test.py 
+vim test.py
+python
+sshw root@172.22.118.1
+sshw root@172.22.118.0
+sshw root@172.22.103.98
+sshw root@172.22.103.96
+users
+sshw root@172.22.103.96
+logout
+ls
+cd work/
+ls
+cd source/
+ls
+git checkout git@github.com:hortonworks/hbase.git
+git clone git@github.com:hortonworks/hbase.git
+cd hbase/
+ls
+which maven
+which mnv
+which mvn
+sshw root@172.22.123.97
+exit
+sshw root@172.22.123.97exit
+exit
+ls
+cd work/
+ls
+cd source/
+cd hbase/
+la
+ls
+git log
+git log | grep afb8421bf497c0e82b9489877d53b904
+git log --help
+git log %H afb8421bf497c0e82b9489877d53b904
+git log afb8421bf497c0e82b9489877d53b904
+git log afb8421bf497c0e82b9489877d53b904
+git show afb8421bf497c0e82b9489877d53b904
+git log
+git show 5989cc342b99d909e2e6a4d4d600a8b8c0952676
+git show afb8421bf497c0e82b9489877d53b904
+git show 61dfb2b344f424a11f93b3f086eab815c1eb0b6a
+sshw root@172.22.123.97
+sshw root@172.22.123.97
+set -o vi
+ls
+asdf asdfoqwerqwi  qerqwer qwer i
+vi ~/.inputrc
+vi  ~/.inputrc
+source  ~/.inputrc
+ set -o vi
+ls
+wr3 23rdfasd fasd fasd fiénkln
+ls
+vi ~/.bash_profile
+asdfasdfas
+ set -o vi
+asdfa
+234
+ set -o vi
+asdf asdf234
+l23
+s
+vimtutor 
+ls
+set -o vi
+ls
+q
+adfasdfasdfasdfsdfsadfet editing-mode vi
+set editing-mode vi
+asdf
+32424 234 
+set keymap vi-command
+sdaf 2134123 
+sdf 2
+2341
+312
+asdf

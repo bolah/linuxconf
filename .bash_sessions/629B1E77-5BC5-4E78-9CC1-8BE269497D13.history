@@ -1,0 +1,500 @@
+screen
+ls
+screen
+ls
+vim
+ls
+ls
+c
+1
+pip install pytest==2.6.2
+python --version
+sudo apt-get install python
+pydevel
+python-devel
+python --version
+pip list
+brew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install shiftit
+brew install Caskroom/cask/shiftit
+git pull upstream
+exit
+exit
+python -version
+python --version
+git
+git
+ls
+cd /opt
+ls
+cd /
+kls
+ls
+cd opt
+cd &
+cd 
+ls
+pwd
+mkdir work
+cd work/
+ls
+mkdir source
+cd source/
+pwd
+pwd
+git clone https://github.com/bolah/certification
+git remote add upstream https://github.com/hortonworks/certification.git
+git remote add upstream https://github.com/hortonworks/certification
+git remote add upstream https://github.com/hortonworks/certification.git
+git remote add upstream git@github.com:hortonworks/certification.git
+git remote add upstream git@github.com:hortonworks/certification
+git remote
+pwd
+lsű
+ls
+cd certification/
+git remote add upstream git@github.com:hortonworks/certification.git
+git pull
+git fetch upstream
+ssh-keygen -t rsa -b 4096 -C "bolah@hortonworks.com"
+cat /Users/bolah/.ssh/id_rsa.pub 
+git fetch upstream
+git pull upstream
+brew tap caskroom/cask
+brew install brew-cask
+brew cask install java
+java - version
+java -version
+ssh root@172.22.101.198
+pwd
+cd ..
+cd ..
+pwd
+wget https://github.com/hortonworks/build-utils/blob/master/openstack-utils/accounts/hw-qe-keypair.pem
+brew install wget
+wget https://github.com/hortonworks/build-utils/blob/master/openstack-utils/accounts/hw-qe-keypair.pem
+pwd
+cd ..
+ls
+ssh-add -K hw-qe-keypair.pem 
+chmod 600 hw-qe-keypair.pem 
+ssh-add -K hw-qe-keypair.pem 
+ssh root@172.22.101.198
+ssh 172.22.105.181
+ssh hw_qe@172.22.105.181
+ssh -i hw-qe-keypair.pem hw_qe@172.22.105.181
+cat hw-qe-keypair.pem 
+ssh -i hw-qe-keypair.pem hw-qe@172.22.105.181
+ssh -i hw-qe-keypair.pem hw-qe@172.22.105.181
+ssh -i hw-qe-keypair.pem root@172.22.105.181
+ls
+cd work/
+ls
+cd source/
+ls
+pwd
+git clone git@github.com:bolah/qe-infra.git
+git clone https://github.com/bolah/qe-ambariautomation
+git config --global user.name "Bence Olah"
+git config --global user.email "bolah@hortonworks.com"
+git config --global core.autocrlf input
+git config --global core.safecrlf true
+pwd
+mkdir gitstuff
+cd gitstuff/
+puts "hello"
+put "hello" 
+vi hello.rb
+git init
+git add hello.rb 
+git commit -m "hello, first commit"
+git staus
+git status
+pwd
+cd ..
+ls
+cd certification/
+git status
+git revert HDPTests/beaver/HTMLParser_v002.py
+git checkout  HDPTests/beaver/HTMLParser_v002.py
+git status
+pwd
+cd ..
+cd gitstuff/
+ls
+pwd
+ls
+vi hello.rb 
+git status
+git add hello.rb 
+git status
+vi a.rb
+vi b.rb
+git add a.rb b.rb 
+git commit "a and b"
+git commit -n "a and b"
+git commit -m "a and b"
+vi c.rb
+git commit -m 'adf"
+git commit -m "adf"
+git add c.rb 
+git add c.rb 
+git commit -m 'av"
+git commit -m "av"
+git commmit
+git commit
+vi hello.rb 
+ls
+git commit
+git add hello.rb 
+git commit
+git status
+git status
+git histor
+git history
+git history
+git status
+git revisions
+git revision
+git flush
+git push
+git push origin
+git log
+git log --pretty=oneline
+pwd
+cd
+pwd
+vi .gitconfig
+vi .gitconfig
+ci
+git ci
+cd work/
+ls
+cd source/
+ls
+cd gitstuff/
+ls
+git st
+git hist
+git checkout 1a241f7
+git st
+git hist
+git checkout master
+ls
+vi hello.rb 
+git status
+git checkout hello.rb 
+git status
+git status
+git checkout master
+git status
+ls
+git st
+vi hello.rb 
+git add hello.rb 
+git commit -m "test"
+git status
+ls
+git hist
+git revert HEAD
+git hist
+cat hello.rb 
+ls -C .git/
+cd .git/
+ls
+cd objects/
+ls
+cd 1a
+ls
+git hist 
+ls
+cdpwd
+pwd
+cd ..
+cd 1a/
+la
+ls
+cat 241f738651b83764303ba8b42503f2e37bf717 
+cd 241f738651b83764303ba8b42503f2e37bf717 
+git st
+pwd
+cd ..
+cd ..
+pwd
+cd ..
+git status
+git branch mybranc
+git status
+git checkout mybranch
+git checkout mybranc
+git status
+git status
+vi hello.rb 
+git add hello.rb 
+git commit -m "message from branch"
+git status
+git merge master
+git status
+git hist --all
+git status
+git checkout master
+git merge mybranc
+git hist
+git hist
+git reset eaa9765
+git status
+git hist
+exit
+exit
+exit
+@
+ps -ef &™££$‹›{[]}\≠–;Ķ~;–~•…Ż∆…Ż~;~¨Ļ…•–Ķ–
+cd
+ls
+cd Library/
+ls
+cd Keyboard\ Layouts/
+ls
+sudo touch .
+ls
+mv Hungarian_Windows.keylayout.txt Hungarian_Windows.keylayout
+sudo touch .
+cd work/
+cd source/
+ls
+cd certification/
+git remote show origin
+git pull remote
+git branch -a
+git fetch
+git hist --all
+pwd
+git pull
+ls
+cd 
+ls
+ls
+cat hw-qe-keypair.pem 
+cd /usr/libexec/
+./configd 
+sudo ./configd 
+ps -ef | grep skype
+ls
+cd work/
+ls
+cd source/
+git clone gitstuff gitstuff_cloned
+cd gitstuff_cloned/
+git hist 
+git hist -all
+git hist -
+git hist --all
+git remot
+git remote
+git remote show origin
+git branch -a
+git fetc
+git fetch
+git hist --all
+pwd
+cd ..
+pwd
+ls -lh
+cd gitstuff
+ls
+vi hello.rb 
+git add hello.rb 
+git commit -m "eeee"
+cd ..
+cd gitstuff_cloned/
+ls
+pwd
+git fetch
+git hist --all
+git fetch
+git hist --all
+git merge origin/master
+git hist --all
+git status
+pwd
+cd ..
+cd gitstuff
+git status
+git add hello.rb 
+cat hello.rb 
+git commit -m "merged"
+git status
+pwd
+sudo reboot
+brew install thunderbird
+brew install Caskroom/cask/thunderbird
+python
+brew install alfred
+brew install alfre
+brew install Caskroom/cask/alfred
+brew install adium
+ls
+cd work/
+cd source/
+ls
+cd certification/
+ls
+git pull
+git pull upstream
+git branch --list | grep night
+git pull upstream/nightly-branch
+git pull upstream nightly-branch
+pwd
+cd ..
+cd ..
+pwd
+find . | grep update_split.sh
+echo &?
+echo &1
+echo &0
+echo $?
+echo $0
+echo $1
+vi ./source/qe-infra/tools/scripts/update_split.sh
+pwd
+cd source/
+git clone git@github.com:bolah/build-utils.git
+ls
+find . | grep nano
+find . | grep nano | grep ambari
+s
+ls
+cd 
+ls
+ssh -i hw-qe-keypair.pem root@172.22.77.82
+ls
+cd 
+ls
+ssh -i hw-qe-keypair.pem root@172.22.77.82
+exigt
+exi
+exit
+ssh -i hw-qe-keypair.pem root@172.22.77.82
+ls
+ssh -i hw-qe-keypair.pem root@172.22.108.145
+ssh -i hw-qe-keypair.pem root@172.22.77.92
+df -h
+ssh -i hw-qe-keypair.pem root@172.22.77.92
+ssh -i hw-qe-keypair.pem root@172.22.77.92
+ssh -i hw-qe-keypair.pem root@172.22.77.82
+pw
+pwd
+ls
+cd /
+ls
+cd Library/
+ls
+cd Application\ Support/
+ls
+cd sk
+find / | grep skype
+sudo find / | grep skype
+brew install Skype
+brew install caskroom/cask/skype
+brew install Caskroom/cask/skype
+brew install macvim
+brew install macvim
+brew install macvim
+brew install macvim
+cd 
+ls
+cd work/
+ls
+cd source/
+ls
+rm -f gitstuff
+rm -fr gitstuff
+rm -fr gitstuff_cloned/
+ls
+rm -fr test/
+exit
+sudo reboot
+pip install coursera
+ls
+cd Do
+ls
+cd Downloads/
+coursera-dl -u bence.olah@gmail.com -p aranyhal python
+pip install acd_cli
+curl -O https://github.com/caseymrm/drivesink/blob/master/drivesink.py
+./drivesink.py sync ~/Pictures Pictures/backup
+sudo chmod 777 drivesink.py 
+./drivesink.py sync ~/Pictures Pictures/backup
+python --version
+lc
+ls
+vi drivesink.py 
+wget https://raw.githubusercontent.com/caseymrm/drivesink/master/drivesink.py
+rm drivesink.py
+mv drivesink.py.1 drivesink.py
+./drivesink.py sync ~/Pictures Pictures/backup
+sudo chmod 777 drivesink.py 
+./drivesink.py sync ~/Pictures Pictures/backup
+pip install requests_toolbelt
+./drivesink.py sync ~/Pictures Pictures/backup
+./drivesink.py upload ~/Pictures Pictures/backup
+  curl https://drivesink.appspot.com/config?c=QdRrxCxWHLmdOBvddls9PlVKNQcEP2 -fo ~/.drivesink
+./drivesink.py upload ~/Pictures Pictures/backup
+./drivesink.py upload ~/Pictures Pictures/HWDESK001.jpg 
+ls
+cd work/
+ls
+cd source/
+ls
+git checkout https://github.com/yadayada/acd_cli.git
+sudo git checkout https://github.com/yadayada/acd_cli.git
+sudo git checkout https://github.com/yadayada/acd_cli.git
+sudo git clone https://github.com/yadayada/acd_cli.git
+ls
+cd acd_cli/
+ls
+python setup.py 
+brew install python3
+sudo brew install python3
+brew install python3
+brew link python3
+sudo brew link python3
+python3
+ls
+python --version
+python3 setup.py 
+pip install setuptools
+pip3 install setuptools
+python3 setup.py 
+ls
+brew install pip3
+brew update
+udo chown -R $(whoami):admin /usr/local
+sudo chown -R $(whoami):admin /usr/local
+brew update
+ssh 192.168.0.4
+ssh osmc@192.168.0.4
+pip install adcclient
+pip install acdclient
+pip install acdcli
+pip --version
+brew install python3-pip
+python3-config 
+brew install easy_install
+python3 --version
+brew install py35-pip
+sudo easy_install pip3
+sudo easy_install pip3
+sudo easy_install pip35
+python3 -V
+pip --version
+/Library/Frameworks/Python.framework/Versions/Current
+whereis python3
+whereis echo
+python3
+brew uninstall python3
+ls
+mv ./Downloads/oauth_data /Users/bolah/Library/Caches/acd_cli/
